@@ -6,7 +6,7 @@ A simple program that display a window using SDL/OpenGL, the color of the window
 	    GL 
 	    GLEW
 
-make sure all the required package are installed first compiling
+make sure all the required package are installed before compiling
 
 # Usage : 
 	
