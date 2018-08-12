@@ -3,7 +3,7 @@
 #include <string>
 #include <iostream>
 #include <GL/glew.h>
-#include <Error.h>
+#include "Error.h"
 #include <fstream>
 #include <vector>
 

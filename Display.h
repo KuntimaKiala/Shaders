@@ -5,8 +5,8 @@
 #include <iostream>
 #include <string>
 #include "Sprite.h"
-#include<GLSLProgram.h>
-#include <Error.h>
+#include "GLSLProgram.h"
+#include "Error.h"
 
 enum class GameState {PLAY, EXIT} ;
 class Display
